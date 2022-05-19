@@ -1,2 +1,1 @@
-# polygon
-A modern JavaScript library
+<h1 align="center">Polygon | A Modern JavaScript Library!</h1>

@@ -1,0 +1,27 @@
+{
+  "name": "polygon",
+  "version": "1.0.0",
+  "description": "A Modern JavaScript Library",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Polynamic/polygon.git"
+  },
+  "keywords": [
+    "polygon",
+    "library",
+    "js",
+    "javascript",
+    "lib",
+    "polynamic"
+  ],
+  "author": "Polynamic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Polynamic/polygon/issues"
+  },
+  "homepage": "https://github.com/Polynamic/polygon#readme"
+}
