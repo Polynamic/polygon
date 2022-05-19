@@ -1,7 +1,7 @@
 <h1 align="center">Polygon | A Modern JavaScript Library!</h1>
 
 <p align="center">
-  <img src="aio/src/assets/images/logos/angular/angular.png" alt="angular-logo" width="120px" height="120px"/>
+  <img src="aio/src/assets/images/logos/angular/angular.png" alt="polygon-logo" width="120px" height="120px"/>
   <br>
   <i>Polygon is a modern JavaScript library developed by Polynamic
     <br> using JavaScript and other languages.</i>
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.angular.io"><strong>www.angular.io</strong></a>
+  <a href="https://www.polygon-js.github.io"><strong>www.polygon-js.github.io</strong></a>
   <br>
 </p>
 
