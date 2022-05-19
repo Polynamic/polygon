@@ -111,9 +111,9 @@ Join the conversation and help the community.
 - [Twitter][twitter]
 - [Discord][discord]
 
-[![Love Angular badge](https://img.shields.io/badge/angular-love-blue?logo=angular&angular=love)](https://www.github.com/angular/angular)
 
-**Love Angular? Give our repo a star :star: :arrow_up:.**
+
+**Love Polygon? Give our repo a star :star: :arrow_up:.**
 
 [contributing]: CONTRIBUTING.md
 [quickstart]: https://polygon-js.github.io/start
