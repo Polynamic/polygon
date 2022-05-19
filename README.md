@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.polygon-js.github.io"><strong>www.polygon-js.github.io</strong></a>
+  <a href="https://polygon-js.github.io"><strong>polygon-js.github.io</strong></a>
   <br>
 </p>
 
