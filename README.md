@@ -39,10 +39,6 @@
 Check out the Polygon Documentation to learn how Polygon works!
 
 - [Getting Started][quickstart]
-- [Architecture][architecture]
-- [Components and Templates][componentstemplates]
-- [Forms][forms]
-- [API][api]
 
 ## Development Setup
 
@@ -120,7 +116,7 @@ Join the conversation and help the community.
 **Love Angular? Give our repo a star :star: :arrow_up:.**
 
 [contributing]: CONTRIBUTING.md
-[quickstart]: https://angular.io/start
+[quickstart]: https://polygon-js.github.io/start
 [changelog]: CHANGELOG.md
 [ng]: https://polygon-js.github.io
 [documentation]: https://angular.io/docs
